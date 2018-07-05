@@ -1,0 +1,186 @@
+*{
+	padding:0px;
+	margin:0px;
+}
+ header{
+background-color: #415e9b;
+border-bottom:1px solid #133783;
+height:82px;
+
+}
+
+.logo img{
+width:172px;
+height:36px;
+margin-left:183px;
+margin-top:25px;
+float:left;
+
+}
+.Facebook-login{
+margin-left:788px;
+
+}
+.Facebook-login label{
+	font-size:12px;
+	font-family:arial;
+	color:white;	
+}
+.password a{
+	color:#9cb4d8;
+	text-decoration:none;
+	font-size:12px;
+	font-family:arial;
+	margin-top:9px;	
+}
+.email{
+	float:left;
+	margin-top:18px;
+	margin-bottom:25px;
+}
+.password{
+float:left;
+margin-top:18px;
+margin-left:15px;
+}
+.Facebook-login input{
+	height:22px;
+	width:149px;
+	margin-top:3px;
+	
+}
+.Login-btn input[type="submit"]{
+background:#4267b2;
+border:1px solid #29487d;
+margin-top:35px;
+margin-left:15px;
+border-radius:2px;
+color:#fff;
+height:22px;
+width:50px;
+padding:2px 2px 2px 2px;
+font-family:arial;
+font-weight:700;
+}
+.connect img{
+	margin-left:187px;
+	margin-top:9px;
+}
+.connect p{
+color:#0e385f;
+font-family:arial;
+font-size:20px;
+font-weight:700;
+margin-top:40px;
+margin-left:187px;
+}
+.register{
+	
+	position:relative;
+	left:766px;
+	bottom:260px;
+	
+}
+.register h2{
+	
+font-weight:700;
+font-family:arial;
+font-size:36px;
+
+	
+}
+.para{
+	margin-top:18px;
+font-weight:400;
+font-size:19px;
+font-family:arial;
+margin-bottom:20px;
+
+	
+}
+.account input[type="text"]{
+	border:1px solid #bdc7d8;
+	height:36px;
+	margin-bottom:15px;
+	border-radius:5px;
+	padding:10px;
+}
+.account input[type="password"]{
+	height:36px;
+	margin-bottom:15px;
+	border-radius:5px;
+	border:1px solid #bdc7d8;
+	padding:10px;
+	width:397px;
+}
+.account span{
+margin-top:27px;
+}
+.account-email {
+width:397px;
+}
+.surname{
+margin-left:11px;
+}
+.account lable{
+font-family:arial;
+font-size:18px;
+}
+.account  select[name="day"]{
+width:56px;
+height:29px;
+margin-top:8px;
+}
+.account  select[name="month"]{
+width:70px;
+height:30px;
+margin-top:8px;
+}
+.account  select[name="year"]{
+width:62px;
+height:30px;
+margin-top:8px;
+}
+ .account a{
+	font-size:11px;
+	color:#3694cf;
+	text-decoration:none;
+		
+}
+
+.account input[type="radio"]{
+margin-top:19px;
+}
+ p{
+	color:#77778a;
+	font-size:11px;
+	font-family:arial;
+	margin-top:21px;
+}
+ .lastline{
+	font-size:13px;
+	font-weight:700;
+	position:relative;
+	top:40px;
+	color:#666666;
+}
+	.account button{
+		width:200px;
+		height:40px;
+		
+		background:linear-gradient(#67ac55,#588a44);
+overflow:hidden;
+		color:#fff;
+		border-radius:5px;
+		border:1px solid #3b6e22;
+		font-family:arial;
+        font-weight:700;
+		font-size:19px;
+	}
+
+.container{
+background:linear-gradient(#fff,#d9ddeb);
+
+overflow:hidden;
+}
+
