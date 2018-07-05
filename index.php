@@ -2,7 +2,7 @@
 
     if (array_key_exists('email', $_POST) OR array_key_exists('password', $_POST)) {
         
-        $link = mysqli_connect("localhost", "id4933825_test123", "venu@123", "id4933825_test");
+        $link = mysqli_connect("localhost", "root", "","facebook");
 
             if (mysqli_connect_error()) {
         
